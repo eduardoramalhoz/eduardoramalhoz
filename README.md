@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Ciência da Computação 5/8<br>- Front-End Developer</p>
+<p align="left">- Estudante de Ciência da Computação (UNIPE)<br>- Desenvolvedor Front-End</p>
 
 ###
 
